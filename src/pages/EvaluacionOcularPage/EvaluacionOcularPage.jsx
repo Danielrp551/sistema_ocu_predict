@@ -20,7 +20,7 @@ import FeedbackButtons from "../../components/FeedbackButtons";
 import EvaluationService from "../../services/EvaluationService";
 
 // Lista de clases como en tu demo
-const CLASES = ["Glaucoma", "Catarata", "Normal", "Retinopatía Diabética"];
+const CLASES = ["Glaucoma", "Retinopatía Diabética", "Normal", "Catarata"];
 
 export default function EvaluacionOcularPage() {
   const theme = useTheme();
