@@ -53,8 +53,8 @@ Este repositorio contiene la implementación del **front-end** de **OcuPredict**
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/tu_usuario/OcuPredict-frontend.git
-   cd OcuPredict-frontend
+   git clone https://github.com/Danielrp551/sistema_ocu_predict.git
+   cd sistema_ocu_predict
    ```
 
 2. **Instalar dependencias:**
