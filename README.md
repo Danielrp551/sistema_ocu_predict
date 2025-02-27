@@ -114,8 +114,6 @@ Pasos para desplegar:
 
 ## **Capturas de Pantalla**
 
-*(Agrega capturas de pantalla reales de tu aplicación. Por ejemplo:)*
-
 ### **Inicio de Sesión**
 ![Inicio de Sesión](docs/img/login.png)
 
@@ -137,5 +135,3 @@ Pasos para desplegar:
 - El front-end está diseñado para ser altamente modular y escalable, permitiendo actualizaciones y mejoras continuas.
 
 ---
-
-Este README describe el funcionamiento general y la configuración del front-end para OcuPredict, un sistema integral de diagnóstico ocular diseñado para médicos. Ajusta los detalles según las características específicas de tu aplicación.
